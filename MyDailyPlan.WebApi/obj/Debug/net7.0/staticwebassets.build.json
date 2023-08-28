@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oBNoXKy4g9L2cC1bJ7BC9Uo9tsLjxACCplFsXG0wxxk=",
+  "Source": "MyDailyPlan.WebApi",
+  "BasePath": "_content/MyDailyPlan.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

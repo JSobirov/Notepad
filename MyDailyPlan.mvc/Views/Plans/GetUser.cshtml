@@ -1,0 +1,36 @@
+﻿@using MyDailyPlan.Service4.DTOs;
+@model PlanResultDto;
+
+
+
+<div>
+    <div class="row">
+        <div class="col text-center">
+            <table class="table  table-bordered table-hover " style="background-color:	#191970;">
+                <thead style="color:#fff">
+                    <tr>
+                        <td>
+                            <h2>
+                                Ish haqida to'liq ma'lumot
+                            </h2>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr style="background-color:lightgray">
+                        <td>
+                            <h5>
+                                @Model.Description
+                            </h5>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col">
+        </div>
+        <div class="">
+        </div>
+    </div>
+    <a class="btn btn-danger" asp-controller="Plans" asp-action="Index">Back</a>
+</div>

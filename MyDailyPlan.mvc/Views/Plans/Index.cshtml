@@ -1,0 +1,70 @@
+﻿@using MyDailyPlan.Service4.DTOs;
+@model IEnumerable<PlanResultDto>;
+
+
+@{
+    ViewData["Title"] = "Display Data";
+    string[] TableHeaders = new string[] { "NO.", "Nomi", "Boshlanish vaqti", "Davomiyligi", "Holati(Bajarilganmi)" };
+}
+
+<div class="Table">
+    <table class="table  table-bordered table-hover " style="background-color:#333E50;">
+        <thead style="color:#fff">
+            <tr>
+                @{
+                    foreach (string head in TableHeaders)
+                    {
+                        <th>
+                            @head
+                        </th>
+                    }
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                int count = 1;
+            }
+            @foreach (var item in Model) 
+        {
+            if (count % 2 == 1)
+            { 
+                <tr style="background-color:lightgray">
+                    <td  class="text-center">
+                        <h5>
+                            @count
+                        </h5>
+                    </td>
+                    <td class="text-center">@item.Name</td>
+                    <td  class="text-center">@item.StartAt</td>
+                    <td  class="text-center">@item.Duration</td>
+                        <td style="background-color:lightgray" class="text-center">
+                            <h5>
+                                <a class="btn btn-primary" asp-controller="Plans" asp-action="GetUser" asp-route-id="@item.Id">@item.IsTodo</a>
+                            </h5>
+                        </td>
+                </tr>
+            }
+            else
+            {
+                <tr style="background-color:white">
+                    <td  class="text-center">
+                        <h5>
+                            @count
+                        </h5>
+                    </td>
+                    <td  class="text-center">@item.Name</td>
+                    <td  class="text-center">@item.StartAt</td>
+                    <td  class="text-center">@item.Duration</td>
+                        <td style="background-color:white" class="text-center">
+                            <h5>
+                                <a class="btn btn-primary" asp-controller="Plans" asp-action="GetUser" asp-route-id="@item.Id">@item.IsTodo</a>
+                            </h5>
+                        </td>
+                    </tr>
+                }
+                count += 1;
+            }
+        </tbody>
+    </table>
+</div>

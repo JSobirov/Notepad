@@ -1,0 +1,11 @@
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.Domain\bin\Debug\net7.0\MyDailyPlan.Domain.deps.json
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.Domain\bin\Debug\net7.0\MyDailyPlan.Domain.dll
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.Domain\bin\Debug\net7.0\MyDailyPlan.Domain.pdb
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.Domain\obj\Debug\net7.0\MyDailyPlan.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.Domain\obj\Debug\net7.0\MyDailyPlan.Domain.AssemblyInfoInputs.cache
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.Domain\obj\Debug\net7.0\MyDailyPlan.Domain.AssemblyInfo.cs
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.Domain\obj\Debug\net7.0\MyDailyPlan.Domain.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.Domain\obj\Debug\net7.0\MyDailyPlan.Domain.dll
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.Domain\obj\Debug\net7.0\refint\MyDailyPlan.Domain.dll
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.Domain\obj\Debug\net7.0\MyDailyPlan.Domain.pdb
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.Domain\obj\Debug\net7.0\ref\MyDailyPlan.Domain.dll

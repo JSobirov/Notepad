@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MyDailyPlan.WebApi.props" />
+</Project>

@@ -1,0 +1,17 @@
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\bin\Debug\net7.0\MyDailyPlan.DAL.deps.json
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\bin\Debug\net7.0\MyDailyPlan.DAL.runtimeconfig.json
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\bin\Debug\net7.0\MyDailyPlan.DAL.dll
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\bin\Debug\net7.0\MyDailyPlan.DAL.pdb
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\bin\Debug\net7.0\MyDailyPlan.Domain.dll
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\bin\Debug\net7.0\MyDailyPlan.Domain.pdb
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\obj\Debug\net7.0\MyDailyPlan.DAL.csproj.AssemblyReference.cache
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\obj\Debug\net7.0\MyDailyPlan.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\obj\Debug\net7.0\MyDailyPlan.DAL.AssemblyInfoInputs.cache
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\obj\Debug\net7.0\MyDailyPlan.DAL.AssemblyInfo.cs
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\obj\Debug\net7.0\MyDailyPlan.DAL.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\obj\Debug\net7.0\MyDailyPlan.DAL.csproj.CopyComplete
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\obj\Debug\net7.0\MyDailyPlan.DAL.dll
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\obj\Debug\net7.0\refint\MyDailyPlan.DAL.dll
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\obj\Debug\net7.0\MyDailyPlan.DAL.pdb
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\obj\Debug\net7.0\MyDailyPlan.DAL.genruntimeconfig.cache
+F:\Visual Studio\Vazsialar\MyDailyPlan\MyDailyPlan.DAL\obj\Debug\net7.0\ref\MyDailyPlan.DAL.dll
